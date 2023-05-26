@@ -109,11 +109,15 @@ const Home = () => {
               <span>Business</span>
             </div>
             <p className="text-muted">
-            Extensions are software programs built on web technologies
-             (such as HTML, CSS, and JavaScript) that enable users to customize the Chrome browsing experience. Welcome.
+              Ut pretium ultricies dignissim. Sed sit amet mi eget urna placerat
+              vulputate. Ut vulputate est non quam dignissim elementum. Donec a
+              ullamcorper diam.
             </p>
             <p className="text-muted">
-            
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quae
+              nulla saepe rerum aspernatur odio amet perferendis tempora
+              mollitia? Ratione unde magni omnis quaerat blanditiis cumque
+              dolore placeat rem dignissimos?
             </p>
             <a
               className="btn btn-primary"
