@@ -9,6 +9,7 @@ const Home = () => {
     {/**/}
     <section
       draggable="false"
+
       className="overflow-hidden pt-0"
       data-v-271253ee=""
     >
@@ -18,7 +19,7 @@ const Home = () => {
           className="px-4 py-5 px-md-5 text-center bg-image"
           style={{
             backgroundImage:
-              'url("/hero.jpg")',
+              `url("https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Chrome_BlogHeader_Extensions.png")`,
             height: 500,
             backgroundSize: "cover",
             backgroundPosition: "50% 50%",
@@ -92,14 +93,14 @@ const Home = () => {
         <div className="row gx-lg-5 mb-5 align-items-center">
           <div className="col-md-6 mb-4 mb-md-0">
             <img
-              src="https://mdbootstrap.com/img/new/standard/city/028.jpg"
+              src="/bb.jpg"
               className="w-100 shadow-4-strong rounded-4 mb-4"
               alt=""
               aria-controls="#picker-editor"
             />
           </div>
           <div className="col-md-6 mb-4 mb-md-0">
-            <h3 className="fw-bold">Art</h3>
+            <h3 className="fw-bold">Extension</h3>
             <div className="mb-2 text-danger small">
               <i
                 className="fas fa-money-bill me-2"
@@ -108,15 +109,11 @@ const Home = () => {
               <span>Business</span>
             </div>
             <p className="text-muted">
-              Ut pretium ultricies dignissim. Sed sit amet mi eget urna placerat
-              vulputate. Ut vulputate est non quam dignissim elementum. Donec a
-              ullamcorper diam.
+            Extensions are software programs built on web technologies
+             (such as HTML, CSS, and JavaScript) that enable users to customize the Chrome browsing experience. Welcome.
             </p>
             <p className="text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea quae
-              nulla saepe rerum aspernatur odio amet perferendis tempora
-              mollitia? Ratione unde magni omnis quaerat blanditiis cumque
-              dolore placeat rem dignissimos?
+            
             </p>
             <a
               className="btn btn-primary"
