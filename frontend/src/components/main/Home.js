@@ -148,17 +148,9 @@ const Home = () => {
               <span>Art</span>
             </div>
             <p className="text-muted">
-              Duis sagittis, turpis in ullamcorper venenatis, ligula nibh porta
-              dui, sit amet rutrum enim massa in ante. Curabitur in justo at
-              lorem laoreet ultricies. Nunc ligula felis, sagittis eget nisi
-              vitae, sodales vestibulum purus. Vestibulum nibh ipsum, rhoncus
-              vel sagittis nec, placerat vel justo. Duis faucibus sapien eget
-              tortor finibus, a eleifend lectus dictum. Cras tempor convallis
-              magna id rhoncus. Suspendisse potenti. Nam mattis faucibus
-              imperdiet. Proin tempor lorem at neque tempus aliquet. Phasellus
-              at ex volutpat, varius arcu id, aliquam lectus. Vestibulum mattis
-              felis quis ex pharetra luctus. Etiam luctus sagittis massa, sed
-              iaculis est vehicula ut.
+            Enhancing Productivity: Chrome extensions can provide tools and features that boost productivity.
+            They can add task managers, note-taking apps,
+            email organizers, and project management tools to help users stay organized and efficient.
             </p>
             <a
               className="btn btn-primary"
